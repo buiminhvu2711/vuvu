@@ -12,3 +12,6 @@ https://stackoverflow.com/questions/21333866/how-to-create-a-circular-progressba
 
 # Shape background android
 https://stackoverflow.com/questions/40043351/half-circle-shape-not-work/40043440
+
+# Custom view 2 flower
+http://www.devexchanges.info/2016/09/meaningful-transition-motion-for.html
